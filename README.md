@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there! 👋
+My name is **Aditasha Fadhila** or you can just go by **Adit**
+I'm currently an undergraduate at **Brawijaya University**
+Please follow my (LinkedIn)[https://www.linkedin.com/in/aditasha/] and I will gladly follow you back
+Thank you for reading this humble readme XD
 
 <!--
 **aditasha/aditasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
