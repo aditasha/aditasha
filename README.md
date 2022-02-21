@@ -1,8 +1,27 @@
 # Hi there! 👋
-My name is **Aditasha Fadhila** or you can just go by **Adit**
-I'm currently an undergraduate at **Brawijaya University**
-Please follow my (LinkedIn)[https://www.linkedin.com/in/aditasha/] and I will gladly follow you back
+My name is *Aditasha Fadhila* or you can just go by *Adit*
+
+I'm an undergraduate at **[Brawijaya University](https://ub.ac.id/en/)**
+
+Currently I'm interested in android mobile development (Kotlin) and (maybe) UI/UX in general
+
+Please follow my [LinkedIn](https://www.linkedin.com/in/aditasha/) and I will gladly follow you back
+
 Thank you for reading this humble readme XD
+
+<p align="left">
+<a href="https://github.com/aditasha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditasha&count_private=true&show_icons=true&theme=swift"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditasha&layout=compact&theme=swift"/>
+</a>
+</p>
+
+Check out my projects :
+<p align="left">
+<a href="https://github.com/aditasha/aditasha.github.io">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=aditasha.github.io&show_owner=true&theme=swift"/>
+</a>
+</p>
 
 <!--
 **aditasha/aditasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
