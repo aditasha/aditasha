@@ -20,6 +20,10 @@ Check out my projects :
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=aditasha.github.io&show_owner=true&theme=swift" />
 </a>
 
+<a href="https://github.com/aditasha/coolyeah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=coolyeah&show_owner=true&theme=swift" />
+</a>
+
 <!--
 **aditasha/aditasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
