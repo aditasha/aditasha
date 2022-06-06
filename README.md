@@ -9,10 +9,10 @@ Please follow my [LinkedIn](https://www.linkedin.com/in/aditasha/) and I will gl
 
 Thank you for reading this humble readme XD
 
-<!-- <a href="https://github.com/aditasha">
+<a href="https://github.com/aditasha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditasha&count_private=true&show_icons=true&theme=swift"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditasha&layout=compact&langs_count=10&theme=swift"/>
-</a> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditasha&layout=compact&langs_count=10&theme=swift&hide=JavaScript"/>
+</a>
 
 Check out my projects :
 
