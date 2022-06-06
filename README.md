@@ -9,10 +9,10 @@ Please follow my [LinkedIn](https://www.linkedin.com/in/aditasha/) and I will gl
 
 Thank you for reading this humble readme XD
 
-<a href="https://github.com/aditasha">
+<!-- <a href="https://github.com/aditasha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditasha&count_private=true&show_icons=true&theme=swift"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditasha&layout=compact&langs_count=10&theme=swift"/>
-</a>
+</a> -->
 
 Check out my projects :
 
@@ -20,8 +20,8 @@ Check out my projects :
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=aditasha.github.io&show_owner=true&theme=swift" />
 </a>
 
-<a href="https://github.com/aditasha/coolyeah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=coolyeah&show_owner=true&theme=swift" />
+<a href="https://github.com/aditasha/dicoding-story">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=dicoding-story&show_owner=true&theme=swift" />
 </a>
 
 <!--
