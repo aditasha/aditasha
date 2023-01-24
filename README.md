@@ -24,6 +24,9 @@ Check out my projects :
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=dicoding-story&show_owner=true&theme=swift" />
 </a>
 
+<br />
+<br />
+
 <a href="https://github.com/aditasha/rawg.io-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=rawg.io-app&show_owner=true&theme=swift" />
 </a>
