@@ -28,6 +28,10 @@ Check out my projects :
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=rawg.io-app&show_owner=true&theme=swift" />
 </a>
 
+<a href="https://github.com/aditasha/SepatuBersih">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=SepatuBersih&show_owner=true&theme=swift" />
+</a>
+
 
 <!--
 **aditasha/aditasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
