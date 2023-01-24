@@ -10,29 +10,29 @@ Please follow my [LinkedIn](https://www.linkedin.com/in/aditasha/) and I will gl
 Thank you for reading this humble readme XD
 
 <a href="https://github.com/aditasha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aditasha&count_private=true&show_icons=true&theme=swift"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditasha&layout=compact&langs_count=10&theme=swift&hide=JavaScript"/>
+  <img height="180em" src="https://github-readme-stats-aditasha.vercel.app/api?username=aditasha&count_private=true&show_icons=true&theme=swift"/>
+  <img height="180em" src="https://github-readme-stats-aditasha.vercel.app/api/top-langs/?username=aditasha&layout=compact&langs_count=10&theme=swift&hide=JavaScript"/>
 </a>
 
 Check out my projects :
 
 <a href="https://github.com/aditasha/aditasha.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=aditasha.github.io&show_owner=true&theme=swift" />
+  <img align="center" src="https://github-readme-stats-aditasha.vercel.app/api/pin/?username=aditasha&repo=aditasha.github.io&show_owner=true&theme=swift" />
 </a>
 
 <a href="https://github.com/aditasha/dicoding-story">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=dicoding-story&show_owner=true&theme=swift" />
+  <img align="center" src="https://github-readme-stats-aditasha.vercel.app/api/pin/?username=aditasha&repo=dicoding-story&show_owner=true&theme=swift" />
 </a>
 
 <br />
 <br />
 
 <a href="https://github.com/aditasha/rawg.io-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=rawg.io-app&show_owner=true&theme=swift" />
+  <img align="center" src="https://github-readme-stats-aditasha.vercel.app/api/pin/?username=aditasha&repo=rawg.io-app&show_owner=true&theme=swift" />
 </a>
 
 <a href="https://github.com/aditasha/SepatuBersih">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditasha&repo=SepatuBersih&show_owner=true&theme=swift" />
+  <img align="center" src="https://github-readme-stats-aditasha.vercel.app/api/pin/?username=aditasha&repo=SepatuBersih&show_owner=true&theme=swift" />
 </a>
 
 
