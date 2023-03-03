@@ -1,7 +1,7 @@
 # Hi there! 👋
 My name is *Aditasha Fadhila* or you can just go by *Adit*
 
-I'm an undergraduate at **[Brawijaya University](https://ub.ac.id/en/)**
+I'm an Information System 2023 fresh graduate from **[Brawijaya University](https://ub.ac.id/en/)**
 
 Currently I'm interested in android mobile development (Kotlin) and (maybe) UI/UX in general
 
